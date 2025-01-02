@@ -5,4 +5,4 @@
 
 #### [Data Class 의 Eqauls 와 HashCode](https://github.com/novicePGT/android/blob/main/Data%20Class/Equals%20And%20HashCode.md)
 
-#### [시퀀스 빌더](https://github.com/novicePGT/android/blob/main/coroutine/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%B9%8C%EB%8D%94.md)
+#### [코루틴 시퀀스 빌더](https://github.com/novicePGT/android/blob/main/coroutine/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%B9%8C%EB%8D%94.md)
