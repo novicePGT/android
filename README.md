@@ -10,3 +10,7 @@
 #### [코루틴 중단](https://github.com/novicePGT/android/blob/main/coroutine/%EC%BD%94%EB%A3%A8%ED%8B%B4%20%EC%A4%91%EB%8B%A8.md)
 
 #### [다운로드 매니저](https://github.com/novicePGT/android/blob/main/useability/DownloadManager.md)
+
+# Kotlin 디자인 패턴
+
+#### [코틀린 디자인 패턴 - 싱글톤 ](https://github.com/novicePGT/android/tree/main/Design%20Pattern)
