@@ -11,6 +11,8 @@
 
 #### [다운로드 매니저](https://github.com/novicePGT/android/blob/main/useability/DownloadManager.md)
 
+#### [SupervisorJob 과 Job](https://github.com/novicePGT/android/blob/main/coroutine/SupervisorJob%20%EA%B3%BC%20Job.md)
+
 # Kotlin 디자인 패턴
 
 #### [코틀린 디자인 패턴 - 싱글톤 ](https://github.com/novicePGT/android/tree/main/Design%20Pattern](https://github.com/novicePGT/android/blob/main/Design%20Pattern/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md))
