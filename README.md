@@ -16,3 +16,7 @@
 # Kotlin 디자인 패턴
 
 #### [코틀린 디자인 패턴 - 싱글톤 ](https://github.com/novicePGT/android/tree/main/Design%20Pattern](https://github.com/novicePGT/android/blob/main/Design%20Pattern/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md))
+
+# 저장소
+
+#### [Canvas Scratch Image](https://github.com/novicePGT/android/blob/main/useability/canvas.md)
